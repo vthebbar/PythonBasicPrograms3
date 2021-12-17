@@ -1,0 +1,6 @@
+Hello, ya,
+Welcome to python.
+Python is interesting.
+
+Cheers,
+Vishwa
